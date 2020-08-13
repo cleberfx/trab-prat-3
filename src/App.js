@@ -7,8 +7,7 @@ export default class App extends Component {
     return (
       <div>
         <ShowSalary />
-        <ShowSalary />
-        <ShowSalary />
+        
       </div>
     );
   }
